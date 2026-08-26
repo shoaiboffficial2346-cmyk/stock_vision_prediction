@@ -1,0 +1,6 @@
+{
+  "name": "StockVision 30D - AI Price Predictor",
+  "description": "Historical stock data analytics, next 30-day price forecasting with ARIMA, Monte Carlo & ML models, backtesting accuracy metrics, and AI market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
